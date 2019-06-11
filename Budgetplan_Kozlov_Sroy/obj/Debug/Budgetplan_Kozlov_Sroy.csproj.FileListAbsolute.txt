@@ -1,0 +1,33 @@
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\bin\Debug\Budgetplan_Kozlov_Sroy.exe.config
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\bin\Debug\Budgetplan_Kozlov_Sroy.exe
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\bin\Debug\Budgetplan_Kozlov_Sroy.pdb
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.csprojAssemblyReference.cache
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\MainWindow.g.cs
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\App.g.cs
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy_MarkupCompile.cache
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy_MarkupCompile.lref
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\MainWindow.baml
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.g.resources
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.Properties.Resources.resources
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.csproj.GenerateResource.cache
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.exe
+C:\Users\vasil\source\repos\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.pdb
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\bin\Debug\Budgetplan_Kozlov_Sroy.exe.config
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\bin\Debug\Budgetplan_Kozlov_Sroy.exe
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\bin\Debug\Budgetplan_Kozlov_Sroy.pdb
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.csprojAssemblyReference.cache
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\App.g.cs
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy_MarkupCompile.cache
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy_MarkupCompile.lref
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\MainWindow.baml
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.g.resources
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.Properties.Resources.resources
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.csproj.GenerateResource.cache
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.csproj.CoreCompileInputs.cache
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.exe
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Budgetplan_Kozlov_Sroy.pdb
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Versions_Dokumentation.g.cs
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\Versions_Dokumentation.baml
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\bin\MainWindow.g.cs
+C:\Users\ch-kov\Documents\Neuer Ordner\GUI\Budgetplan_Kozlov_Sroy\Budgetplan_Kozlov_Sroy\obj\Debug\bin\MainWindow.baml
